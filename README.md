@@ -1,4 +1,4 @@
-```markdown
+
 # JavaScript Learning Journey
 
 Welcome to my JavaScript learning GitHub repository! 🚀
@@ -30,4 +30,3 @@ I've established this repository for a few reasons:
 I'm excited to connect with fellow learners, developers, or anyone interested in JavaScript. If you have questions or suggestions, feel free to get in touch with me via LinkedIn.
 
 Happy coding! Remember, the key to mastery is consistent practice and a curious mind. 🌟
-```
